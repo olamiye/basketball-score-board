@@ -4,15 +4,28 @@ body {
     display: flex;
     justify-content: center;
 }
-
+/* top header */
 .container {
     display: flex;
     justify-content: space-around;
     background: darkcyan;
-    height: 500px;
-    width: 500px;
-    
-    
+    height:385px;
+    width: 575px;
+}
+
+.uppertext{
+    Width:149px;
+    Height:36px;
+}
+
+h3{
+    Font:Verdana;
+    font-weight:700;
+    font-Size:40px;
+    text-align: center; 
+    line-height: 36px;  
+    font-style: normal; 
+    color:#EEEEEE;
 }
 
 
