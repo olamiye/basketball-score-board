@@ -17,6 +17,10 @@ body {
 .uppertext{
     Width:149px;
     Height:36px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    margin-top: 71px;
+
 }
 
 h3{
@@ -36,5 +40,15 @@ p{
     height: 120px;
     border-radius: 5px;
     color:#F94F6D;
+    font-style: normal; 
+    font-weight: 400;
+    font-size: 90px;
+    font-family: 'Cursed Timer ULiL';
+    text-align: center;
+    line-height: 127px; 
+    margin-top: -21px;
 }
+
+/* lower section */
+
 
