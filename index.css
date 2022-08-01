@@ -3,6 +3,7 @@ body {
     margin: 0;
     display: flex;
     justify-content: center;
+    background-color: orangered;
 }
 
 /* top header */
@@ -19,8 +20,8 @@ body {
 .uppertext{
     Width:149px;
     Height:36px;
-    /* display: flex; */
-    /* flex-direction: column; */
+    display: flex;  
+    flex-direction: column;  
     margin-top: 71px;
 
 }
